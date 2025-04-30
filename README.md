@@ -19,12 +19,12 @@ This is a [Next.js](https://nextjs.org) bolierplate
 
 ## List of added dependites
 
-    ["@radix-ui/react-icons"](https://www.npmjs.com/package/@radix-ui/react-icons)
-    ["clsx"](https://www.npmjs.com/package/clsx)
-    ["react-hook-form"](https://www.npmjs.com/package/react-hook-form)
-    ["tailwind-merge"](https://www.npmjs.com/package/tailwind-merge)
-    ["zod"](https://www.npmjs.com/package/zod)
-    ["zustand"](https://www.npmjs.com/package/zustand)
+["@radix-ui/react-icons"](https://www.npmjs.com/package/@radix-ui/react-icons)
+["clsx"](https://www.npmjs.com/package/clsx)
+["react-hook-form"](https://www.npmjs.com/package/react-hook-form)
+["tailwind-merge"](https://www.npmjs.com/package/tailwind-merge)
+["zod"](https://www.npmjs.com/package/zod)
+["zustand"](https://www.npmjs.com/package/zustand)
 
 ## Usefull links
 
