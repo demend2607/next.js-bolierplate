@@ -1,16 +1,16 @@
+
 This is a [Next.js](https://nextjs.org) bolierplate
 
 ## Getting start
 
 1. Clone repository;
 2. npm install;
-3. npm update for prevent an issue;
+3. ncu -u for prevent an issue;
 
 ## Changes
 
 - next.config.ts;
 - eslint.config.mjs;
-- usefull pages: error, not-found, loading;
 
 ## Features
 
@@ -29,4 +29,3 @@ This is a [Next.js](https://nextjs.org) bolierplate
 ## Usefull links
 
 - [Prisma](https://www.prisma.io/docs/orm)
-- [Vercel](https://vercel.com/docs)
